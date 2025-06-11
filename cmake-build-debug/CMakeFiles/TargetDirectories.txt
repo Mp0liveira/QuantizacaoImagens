@@ -1,0 +1,3 @@
+C:/Users/marco/CLionProjects/Quantizacao/cmake-build-debug/CMakeFiles/Quantizacao.dir
+C:/Users/marco/CLionProjects/Quantizacao/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marco/CLionProjects/Quantizacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
