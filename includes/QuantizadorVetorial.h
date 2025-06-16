@@ -1,0 +1,8 @@
+//
+// Created by marco on 16/06/2025.
+//
+
+#ifndef QUANTIZADORVETORIAL_H
+#define QUANTIZADORVETORIAL_H
+
+#endif //QUANTIZADORVETORIAL_H

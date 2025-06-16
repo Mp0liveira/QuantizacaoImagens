@@ -1,8 +1,5 @@
 # ninja log v6
-5	304	7713726864267434	build.ninja	53b556fc5c9cb221
-3	507	7713685627871132	CMakeFiles/Quantizacao.dir/main.cpp.obj	580342337e755829
-508	877	7713685632925827	Quantizacao.exe	ef73c270d6d3644
-21	760	7713757206072979	CMakeFiles/Quantizacao.dir/main.cpp.obj	580342337e755829
-33	775	7713757206190742	CMakeFiles/Quantizacao.dir/src/QuantizadorEscalar.cpp.obj	d8b5cc5999bbe93c
-8	533	7713757881031738	CMakeFiles/Quantizacao.dir/main.cpp.obj	580342337e755829
-15	653	7713757881107368	CMakeFiles/Quantizacao.dir/src/QuantizadorEscalar.cpp.obj	d8b5cc5999bbe93c
+5	304	7717910445518595	build.ninja	53b556fc5c9cb221
+27	1786	7717905090263042	CMakeFiles/Quantizacao.dir/main.cpp.obj	580342337e755829
+3286	3595	7717905122848938	Quantizacao.exe	87c45ccd7da63a5f
+53	3286	7717905090510313	CMakeFiles/Quantizacao.dir/src/QuantizadorEscalar.cpp.obj	d8b5cc5999bbe93c

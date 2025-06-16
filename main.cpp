@@ -1,14 +1,10 @@
 #include <iostream>
-
 #include "includes/QuantizadorEscalar.h"
 
-#define STB_IMAGE_IMPLEMENTATION
-#define STB_IMAGE_WRITE_IMPLEMENTATION
-
 int main() {
-    QuantizadorEscalar quantizador_escalar("Imagens/lena_grey.bmp");
+    QuantizadorEscalar quantizador_escalar("lena_gray.png");
     quantizador_escalar.quantizarImagem();
+    quantizador_escalar.quantizarDithering();
 
-    std::cout << "STB configurado com sucesso!" << std::endl;
     return 0;
 }

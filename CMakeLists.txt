@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Quantizacao main.cpp
         includes/QuantizadorEscalar.h
-        src/QuantizadorEscalar.cpp)
+        src/QuantizadorEscalar.cpp
+        includes/QuantizadorVetorial.h)
 
 target_include_directories(Quantizacao PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/libs)
